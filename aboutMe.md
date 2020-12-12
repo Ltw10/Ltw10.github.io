@@ -1,5 +1,5 @@
 ---
 layout: aboutMe
-permalink: /aboutMe.html
+permalink: /aboutMe/
 title: About Me
 ---
