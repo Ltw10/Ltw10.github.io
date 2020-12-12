@@ -1,0 +1,12 @@
+---
+layout: projects
+permalink: /projects/pingPongBallLauncher/
+title: Ping Pong Ball Launcher Project
+---
+
+<h5> Robotic Launcher </h5>
+
+<p> For a class my second semester freshmen year of college we had to create a mechanical ping pong ball launcher and target system to act as a toy for kids with disabilities. I worked primarily on the coding aspect of the project which dealth with using a camera to find target and distance to target. I learned how to use a neural netwoek to train the camera to identify the target. I designd code to take the distance and compute the launcher angle needed then turn the launcehr towards target and set launch angle. I assisted in using code to light up a scoreboard based on the accuracy of the launcher. </p>
+<p> *Disclaimer* This semester was the semester that transitioned from in-person to online mid semester due to the COVID-19 pandemic. You can imagine the struggles of trying to complete this group project while in quarentine. Our final project does not look like what we wished or thought it would look like, but I think our slides are a testement to the work that went in regardless of if we produced a final launcher or not.
+
+<a href="https://drive.google.com/file/d/1OWB4YcVAL1PRaMLIGwMwKbe7PK8V0sps/view?usp=sharing" type="_blank">Ping Pong Ball Launcher</a>
