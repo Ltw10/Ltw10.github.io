@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="About Me">
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+    {% if post.project != null %}
+        <li>        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  
+</div>
