@@ -3,8 +3,6 @@ layout: aboutMe
 permalink: /aboutMeProfessional/
 title: About Me (Professional)
 ---
-<html>
-  <body>
     <h1> Experience </h1>
 
       <h2> Valet Driver </h2>
@@ -16,5 +14,3 @@ title: About Me (Professional)
             <li> Serve many customers by responding quickly to client requests </li>
           </ul>
           
-   </body>
-  </html>
